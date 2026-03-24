@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/karan0701/LeetCode/tree/main/0007-reverse-integer/) | Medium |
+| [0050-powx-n](https://github.com/karan0701/LeetCode/tree/main/0050-powx-n/) | Medium |
 | [0326-power-of-three](https://github.com/karan0701/LeetCode/tree/main/0326-power-of-three/) | Easy |
 | [0367-valid-perfect-square](https://github.com/karan0701/LeetCode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/karan0701/LeetCode/tree/main/0633-sum-of-square-numbers/) | Medium |
@@ -38,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0050-powx-n](https://github.com/karan0701/LeetCode/tree/main/0050-powx-n/) | Medium |
 | [0326-power-of-three](https://github.com/karan0701/LeetCode/tree/main/0326-power-of-three/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
