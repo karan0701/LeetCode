@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/karan0701/LeetCode/tree/main/0007-reverse-integer/) | Medium |
 | [0050-powx-n](https://github.com/karan0701/LeetCode/tree/main/0050-powx-n/) | Medium |
+| [0258-add-digits](https://github.com/karan0701/LeetCode/tree/main/0258-add-digits/) | Easy |
 | [0326-power-of-three](https://github.com/karan0701/LeetCode/tree/main/0326-power-of-three/) | Easy |
 | [0367-valid-perfect-square](https://github.com/karan0701/LeetCode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0504-base-7](https://github.com/karan0701/LeetCode/tree/main/0504-base-7/) | Easy |
@@ -54,4 +55,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0504-base-7](https://github.com/karan0701/LeetCode/tree/main/0504-base-7/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/karan0701/LeetCode/tree/main/0258-add-digits/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/karan0701/LeetCode/tree/main/0258-add-digits/) | Easy |
 <!---LeetCode Topics End-->
