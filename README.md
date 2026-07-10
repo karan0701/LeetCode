@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0724-find-pivot-index](https://github.com/karan0701/LeetCode/tree/main/0724-find-pivot-index/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/karan0701/LeetCode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/karan0701/LeetCode/tree/main/1207-unique-number-of-occurrences/) | Easy |
+| [1991-find-the-middle-index-in-array](https://github.com/karan0701/LeetCode/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/karan0701/LeetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -98,4 +99,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0724-find-pivot-index](https://github.com/karan0701/LeetCode/tree/main/0724-find-pivot-index/) | Easy |
+| [1991-find-the-middle-index-in-array](https://github.com/karan0701/LeetCode/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 <!---LeetCode Topics End-->
