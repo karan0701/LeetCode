@@ -29,10 +29,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/karan0701/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/karan0701/LeetCode/tree/main/0633-sum-of-square-numbers/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/karan0701/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/karan0701/LeetCode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0136-single-number](https://github.com/karan0701/LeetCode/tree/main/0136-single-number/) | Easy |
 | [0724-find-pivot-index](https://github.com/karan0701/LeetCode/tree/main/0724-find-pivot-index/) | Easy |
