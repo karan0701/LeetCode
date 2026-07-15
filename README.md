@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1137-n-th-tribonacci-number](https://github.com/karan0701/LeetCode/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/karan0701/LeetCode/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [2119-a-number-after-a-double-reversal](https://github.com/karan0701/LeetCode/tree/main/2119-a-number-after-a-double-reversal/) | Easy |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/karan0701/LeetCode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -79,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/karan0701/LeetCode/tree/main/0258-add-digits/) | Easy |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/karan0701/LeetCode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
