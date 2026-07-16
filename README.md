@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/karan0701/LeetCode/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [2119-a-number-after-a-double-reversal](https://github.com/karan0701/LeetCode/tree/main/2119-a-number-after-a-double-reversal/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/karan0701/LeetCode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/karan0701/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -34,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/karan0701/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/karan0701/LeetCode/tree/main/0633-sum-of-square-numbers/) | Medium |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/karan0701/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -47,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1207-unique-number-of-occurrences](https://github.com/karan0701/LeetCode/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/karan0701/LeetCode/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/karan0701/LeetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/karan0701/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -78,15 +81,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/karan0701/LeetCode/tree/main/0258-add-digits/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/karan0701/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/karan0701/LeetCode/tree/main/0258-add-digits/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/karan0701/LeetCode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/karan0701/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/karan0701/LeetCode/tree/main/0242-valid-anagram/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/karan0701/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
