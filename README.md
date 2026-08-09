@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/karan0701/LeetCode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/karan0701/LeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/karan0701/LeetCode/tree/main/0069-sqrtx/) | Easy |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/karan0701/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0367-valid-perfect-square](https://github.com/karan0701/LeetCode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/karan0701/LeetCode/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0704-binary-search](https://github.com/karan0701/LeetCode/tree/main/0704-binary-search/) | Easy |
@@ -43,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/karan0701/LeetCode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/karan0701/LeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0136-single-number](https://github.com/karan0701/LeetCode/tree/main/0136-single-number/) | Easy |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/karan0701/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/karan0701/LeetCode/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/karan0701/LeetCode/tree/main/0724-find-pivot-index/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/karan0701/LeetCode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
