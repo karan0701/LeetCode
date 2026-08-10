@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/karan0701/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/karan0701/LeetCode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0367-valid-perfect-square](https://github.com/karan0701/LeetCode/tree/main/0367-valid-perfect-square/) | Easy |
+| [0540-single-element-in-a-sorted-array](https://github.com/karan0701/LeetCode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/karan0701/LeetCode/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0704-binary-search](https://github.com/karan0701/LeetCode/tree/main/0704-binary-search/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/karan0701/LeetCode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
@@ -47,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/karan0701/LeetCode/tree/main/0136-single-number/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/karan0701/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/karan0701/LeetCode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
+| [0540-single-element-in-a-sorted-array](https://github.com/karan0701/LeetCode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/karan0701/LeetCode/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/karan0701/LeetCode/tree/main/0724-find-pivot-index/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/karan0701/LeetCode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
