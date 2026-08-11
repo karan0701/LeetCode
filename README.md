@@ -57,12 +57,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1207-unique-number-of-occurrences](https://github.com/karan0701/LeetCode/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/karan0701/LeetCode/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/karan0701/LeetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/karan0701/LeetCode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/karan0701/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/karan0701/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/karan0701/LeetCode/tree/main/1207-unique-number-of-occurrences/) | Easy |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/karan0701/LeetCode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -100,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/karan0701/LeetCode/tree/main/0242-valid-anagram/) | Easy |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/karan0701/LeetCode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/karan0701/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
