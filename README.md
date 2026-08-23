@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0704-binary-search](https://github.com/karan0701/LeetCode/tree/main/0704-binary-search/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/karan0701/LeetCode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/karan0701/LeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/karan0701/LeetCode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/karan0701/LeetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -57,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0852-peak-index-in-a-mountain-array](https://github.com/karan0701/LeetCode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/karan0701/LeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/karan0701/LeetCode/tree/main/1207-unique-number-of-occurrences/) | Easy |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/karan0701/LeetCode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1991-find-the-middle-index-in-array](https://github.com/karan0701/LeetCode/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/karan0701/LeetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/karan0701/LeetCode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
