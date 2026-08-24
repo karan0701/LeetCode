@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0367-valid-perfect-square](https://github.com/karan0701/LeetCode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0504-base-7](https://github.com/karan0701/LeetCode/tree/main/0504-base-7/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/karan0701/LeetCode/tree/main/0633-sum-of-square-numbers/) | Medium |
+| [1025-divisor-game](https://github.com/karan0701/LeetCode/tree/main/1025-divisor-game/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/karan0701/LeetCode/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/karan0701/LeetCode/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1872-stone-game-viii](https://github.com/karan0701/LeetCode/tree/main/1872-stone-game-viii/) | Hard |
@@ -83,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1025-divisor-game](https://github.com/karan0701/LeetCode/tree/main/1025-divisor-game/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/karan0701/LeetCode/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1872-stone-game-viii](https://github.com/karan0701/LeetCode/tree/main/1872-stone-game-viii/) | Hard |
 ## Memoization
@@ -140,9 +142,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1025-divisor-game](https://github.com/karan0701/LeetCode/tree/main/1025-divisor-game/) | Easy |
 | [1872-stone-game-viii](https://github.com/karan0701/LeetCode/tree/main/1872-stone-game-viii/) | Hard |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1872-stone-game-viii](https://github.com/karan0701/LeetCode/tree/main/1872-stone-game-viii/) | Hard |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1025-divisor-game](https://github.com/karan0701/LeetCode/tree/main/1025-divisor-game/) | Easy |
+## Impartial Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1025-divisor-game](https://github.com/karan0701/LeetCode/tree/main/1025-divisor-game/) | Easy |
 <!---LeetCode Topics End-->
