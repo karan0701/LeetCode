@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/karan0701/LeetCode/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1872-stone-game-viii](https://github.com/karan0701/LeetCode/tree/main/1872-stone-game-viii/) | Hard |
 | [2119-a-number-after-a-double-reversal](https://github.com/karan0701/LeetCode/tree/main/2119-a-number-after-a-double-reversal/) | Easy |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/karan0701/LeetCode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/karan0701/LeetCode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/karan0701/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Binary Search
@@ -99,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/karan0701/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0504-base-7](https://github.com/karan0701/LeetCode/tree/main/0504-base-7/) | Easy |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/karan0701/LeetCode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -162,4 +164,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1025-divisor-game](https://github.com/karan0701/LeetCode/tree/main/1025-divisor-game/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/karan0701/LeetCode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 <!---LeetCode Topics End-->
